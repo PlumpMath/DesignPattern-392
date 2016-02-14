@@ -1,5 +1,10 @@
 package decorate;
 
+/**
+ * 装饰者模式
+ * @author Jianyong
+ *
+ */
 public class Client {
 
 	public static void main(String[] args) {
