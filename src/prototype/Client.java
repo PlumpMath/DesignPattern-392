@@ -1,7 +1,7 @@
 package prototype;
 
 /**
- * 原型模式
+ * 鍘熷瀷妯″紡
  * @author Jianyong
  *
  */
